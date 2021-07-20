@@ -31,7 +31,7 @@ https://www.acmicpc.net
 # 동아리 진행
 
 1주차
-brute force 알고리즘
++ brute force 알고리즘
 
 2주차
 + Dynamic programming (7월18일 ~ 22일)

@@ -64,7 +64,7 @@ https://www.acmicpc.net
 # 폴더 예시
 공통문제
 예) STUDY 폴더 -> WEEK1 폴더 -> dlaghwls1104.py , dlaghwls1104_풀이방법.md
-STUDY 폴더 - 소스코드 및 풀이방법 파일
+STUDY 폴더
 
 개인문제
 예) baekjoon 폴더 -> 1011 폴더(자신이 맡은 개인문제 폴더 만들기) -> dlaghwls1104.py , dlaghwls1104_풀이방법.md

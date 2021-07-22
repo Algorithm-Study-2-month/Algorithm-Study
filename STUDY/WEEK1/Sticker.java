@@ -41,6 +41,7 @@ public class Sticker {
 		System.out.println(solution(this_arr));
 		
 	
+		
 	}
 
 }

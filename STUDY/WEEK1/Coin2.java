@@ -44,6 +44,7 @@ public class Coin2 {
 		}
 		
 		System.out.println("사용 코인 수  : " + solution(n, sum));
+		
 
 	}
 
